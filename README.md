@@ -6,6 +6,7 @@ Este es un blog personal de Edinson, por el momento se encontrá pobre hasta que
 ***
 
 ![Soi io](https://fotos.subefotos.com/0345bb0710ca9d11d6c0ef6fab34002fo.jpg)
+
 ***
 
 ### Empezemos
