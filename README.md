@@ -11,3 +11,4 @@ Este es un blog personal de Edinson, por el momento se encontrá pobre hasta que
 Mi nombre es Edinson Javier Ramirez Ríos, tengo 19 años, actualmente estoy cursando un tercer semestre de la carrera de Ingeniería en Software de la universidad de Guayaquil.
 
 Por el momento es todo, Gracias.
+
